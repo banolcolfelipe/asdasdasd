@@ -1,0 +1,11 @@
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\bin\Debug\net6.0\SalitreMagico.Model.deps.json
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\bin\Debug\net6.0\SalitreMagico.Model.dll
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\bin\Debug\net6.0\SalitreMagico.Model.pdb
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\obj\Debug\net6.0\SalitreMagico.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\obj\Debug\net6.0\SalitreMagico.Model.AssemblyInfoInputs.cache
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\obj\Debug\net6.0\SalitreMagico.Model.AssemblyInfo.cs
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\obj\Debug\net6.0\SalitreMagico.Model.csproj.CoreCompileInputs.cache
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\obj\Debug\net6.0\SalitreMagico.Model.dll
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\obj\Debug\net6.0\refint\SalitreMagico.Model.dll
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\obj\Debug\net6.0\SalitreMagico.Model.pdb
+D:\RetoTecnicoSofka\Backend\SalitreMagicoApp\SalitreMagico.Model\obj\Debug\net6.0\ref\SalitreMagico.Model.dll
